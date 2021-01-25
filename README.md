@@ -1,5 +1,5 @@
 # Beaglebone-Black
-Here is my applications to learn beaglebone black
+I am newbie in embedded linux.I will add here as i make projects with Beaglebone Black.
 
 # References
 Youtube \ Derek Molloy   
